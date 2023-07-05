@@ -1,0 +1,53 @@
+@font-face {
+    font-family:Raavi;
+    src: url(../fonts/raavi.ttf);
+}
+
+@font-face {
+    font-family:"Tw Cen MT Condensed";
+    src:url(../fonts/TCCM___.TTF);
+}
+
+.pad-nun{padding-left:0; padding-right:0;}
+.row{margin-left:0; margin-right:0;}
+/*
+
+.dropdown-menu {
+    position: relative;}
+	*/
+	
+
+.serch-box input{background:none; border:none; color:#FFFFFF;box-shadow:none;}
+.serch-box a{cursor:pointer;}
+.serch-box i{color:#FFFFFF; font-size:16px;}
+.form-control:focus{box-shadow:none;}
+.input-group-addon {
+    padding:6px 16px 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+     background:none; 
+     border:none; 
+     border-radius:50px; 
+}	
+
+.slider{border-bottom:12px solid #f58632;}
+
+.section1{background:url(../img/top-bg.png) repeat-x #265a9a; }
+.icon1{background:url(../img/icon1.png) top center no-repeat; padding-top:130px;}
+
+footer{background:#2a2b2b; overflow:hidden; padding:30px 0 0 0;}
+
+.navbar-inverse{border:none;}
+.navbar {border-radius: 0; margin-bottom: 0;}
+
+.carousel-control.right,.carousel-control.left{background-image:none;}
+#news{overflow:hidden; margin-top:30px;}
+
+.news-list{border:1px solid #265a9a ; margin:0; padding:16px 10px; border-radius:5px; list-style:none;}
+.news-list li{ border-bottom:1px solid #265a9a; background:#fff; color:#f58633; display:block; font-size:45px; text-align:center; font-family:"Tw Cen MT Condensed";}
+.news-list li:last-child{border:0;color:#265a9a;}
+
+
